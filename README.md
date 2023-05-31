@@ -12,11 +12,3 @@ Download the provided data (Matlab) (http://www.sysnet.ucsd.edu/projects/url/#co
 <p>
 Set the path to the downloaded url.mat file in the top cell of every notebook.
 </p>
-
-### Note for me: Data import paths.
-<p>
-Windows: ../../url.mat
-</p>
-<p>
-Linux:../../data/url.mat
-</p>
