@@ -5,6 +5,10 @@ Identifying Suspicious URLs: An Application of Large-Scale Online Learning (Pyth
 A reproduction experiment of https://cseweb.ucsd.edu//~jtma/papers/url-icml2009.pdf using cutting-edge python libraries for machine-learning.
 </p>
 
+<p>
+Read the accompanying research paper in the project files for more details ['Seminararbeit-Identifying-Suspicious-URLs.pdf'].
+</p>
+
 ### How to run
 <p>
 Download the provided data (Matlab) (http://www.sysnet.ucsd.edu/projects/url/#code) and install the necessary dependencies.
